@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cti_db@47.97.17.242" uuid="f4d90f15-81f0-4fdb-9b4c-387ce8545480">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://47.97.17.242:5432/cti_db</jdbc-url>
+    </data-source>
+  </component>
+</project>
